@@ -1,4 +1,4 @@
-# dockerise django with nginx and postgres
+# Dockerizing Django with Postgres, Gunicorn, and Nginx
 
 ## Credit
 
